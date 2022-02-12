@@ -1,0 +1,114 @@
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Class_lists.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.enrolled_students.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.withdraw_list.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Class_lists.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.enrolled_students.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Home.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.SUB_oldstudent.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.WithdrawalForm.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.withdraw_list.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.register.resources
+C:\Users\KEN\Desktop\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Enrolment.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Class_lists.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.enrolled_students.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Home.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.register.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.WithdrawalForm.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.withdraw_list.resources
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\KEN\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.New_Account.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Class_lists.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.enrolled_students.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.New_Account.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.register.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.RegisteredStud.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.WithdrawalForm.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.withdraw_list.resources
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\Desktop\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Dashboard.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Dashboard.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.New_Account.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Register.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.RegisteredStud.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem\EnrollmentSystem\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Class_lists.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Enrolled_Students.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Dashboard.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.New_Account.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Register.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.RegisteredStud.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Withdraw_List.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Enrollment.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Revised_Forms.Masterlist.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Subjects.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.Revised_Forms.ClassList.resources
+C:\Users\ricotangpus02\source\repos\EnrollmentSystem - Copy\EnrollmentSystem\obj\Debug\EnrollmentSystem.SchoolYear.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.csprojAssemblyReference.cache
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Revised_Forms.ClassList.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Enrollment.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Dashboard.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Revised_Forms.Masterlist.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.SchoolYear.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Subjects.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Section.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.Withdraw_List.resources
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\ricotangpus02\source\repos\Revised - Enrollment System\EnrollmentSystem\obj\Debug\EnrollmentSystem.frm_Login.resources
